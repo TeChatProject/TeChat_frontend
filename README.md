@@ -1,2 +1,2 @@
 # TeChat_frontend
-Techat Frontend with Bootstrap
+TeChat Frontend with Bootstrap
